@@ -1,2 +1,2 @@
 # Institute_Portal
-Contains  Metadata Concept |Query Execution from Command  line | Web Apllication for Institute (DBMS Assignment  no 2)
+https://github.com/VAIDEHIGHIME/Institute_Portal/DBMS_Web_Application/Resourses/DBMS_Lab_Project.pdf
